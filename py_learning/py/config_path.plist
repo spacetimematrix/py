@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UnityVersion</key>
+	<string>462</string>
+	<key>BuildDir</key>
+	<string>/Users/WD/workspace/Project/mtlbb_ty/Project/Client/Build/20150511_174835</string>
+	<key>UnityPath</key>
+	<string>/Applications/Unity/Unity.app/Contents/MacOS/Unity</string>
+	<key>ClientPath</key>
+	<string>/Users/binlinghu/Desktop/SVNWorkSpace/TY_Internation2/TY_HK/Project/Client</string>
+	<key>BuildFolderName</key>
+	<string>MLDJ_IOS</string>
+</dict>
+</plist>
